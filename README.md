@@ -20,6 +20,7 @@ a repo for picoCTF
 ## Cryptography
 
 - mod26
+- mind_your_pandq
 
 
 ## Forensics
@@ -35,3 +36,7 @@ a repo for picoCTF
 ## Binary Exploitation 
 
 - stonks
+
+## Web Exploit
+
+- get_ahead
