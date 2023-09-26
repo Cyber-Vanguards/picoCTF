@@ -15,6 +15,9 @@ a repo for picoCTF
 - python_wrangling
 - wave_a_flag
 - nice_netcat
+- static_aint_always_noise
+- tab_tab_attack
+- ground_mission
 
 
 ## Cryptography
@@ -25,12 +28,15 @@ a repo for picoCTF
 
 ## Forensics
 
-- information
-
+- information 
+- tunn3lv1s10n
+- matryoshka_doll
 
 ## Reverse Engineering
 
 - transformation
+- keygenme_py
+- crackme_py
 
 
 ## Binary Exploitation 
