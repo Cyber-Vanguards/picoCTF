@@ -22,12 +22,17 @@ a repo for picoCTF
 - static_aint_always_noise
 - tab_tab_attack
 - ground_mission
+- plumbing
+- lets_warm_up
+- warmed_up
+- 2warm
 
 
 ## Cryptography
 
 - mod26
 - mind_your_pandq
+- the_numbers
 
 
 ## Forensics
@@ -35,12 +40,16 @@ a repo for picoCTF
 - information 
 - tunn3lv1s10n
 - matryoshka_doll
+- glory_of_the_garden
+- macrohard_weakedge
 
 ## Reverse Engineering
 
 - transformation
 - keygenme_py
 - crackme_py
+- vault_door_training
+- speeds_and_feeds
 
 
 ## Binary Exploitation 
@@ -50,3 +59,4 @@ a repo for picoCTF
 ## Web Exploit
 
 - get_ahead
+- insp3ctor
