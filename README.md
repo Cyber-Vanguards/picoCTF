@@ -12,4 +12,26 @@ a repo for picoCTF
 ## General Skills
 
 - obedient_cat
-- 
+- python_wrangling
+- wave_a_flag
+- nice_netcat
+
+
+## Cryptography
+
+- mod26
+
+
+## Forensics
+
+- information
+
+
+## Reverse Engineering
+
+- transformation
+
+
+## Binary Exploitation 
+
+- stonks
