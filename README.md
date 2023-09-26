@@ -6,3 +6,10 @@ a repo for picoCTF
 
 - https://play.picoctf.org/login
 
+> each writeup has the flag in the file
+---
+
+## General Skills
+
+- obedient_cat
+- 
