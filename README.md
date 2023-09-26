@@ -7,6 +7,10 @@ a repo for picoCTF
 - https://play.picoctf.org/login
 
 > each writeup has the flag in the file
+
+* Many of these writeups are thanks to [Almond Force on YouTube](https://www.youtube.com/@AlmondForce) for sharing video content
+
+
 ---
 
 ## General Skills
